@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="autofac" Version="6.2.0" />
-    <PackageReference Include="AutofacSerilogIntegration" Version="2.0.0" />
+    <PackageReference Include="AutofacSerilogIntegration" Version="5.0.0" />
   </ItemGroup>
 
   <ItemGroup>
